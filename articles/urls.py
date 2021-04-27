@@ -6,3 +6,4 @@ router.register(r'categorie',CategorieViewset)
 router.register(r'author',AuthorViewset)
 router.register(r'article',ArticleViewset)
 urlpatterns = router.urls
+#setup du router
